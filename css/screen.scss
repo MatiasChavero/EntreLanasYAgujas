@@ -1,0 +1,21 @@
+// (*) imports required
+
+// Import variables*
+@import "partials/_variables";
+
+// Import reset* (http://html5doctor.com/html-5-reset-stylesheet)
+@import "partials/_reset";
+
+// mixins
+@import "partials/_mixins";
+
+//Import google fonts (http://fonts.google.com)
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+// Import font-face
+// @import "fonts/font-name/_font-name";
+
+// Import icons
+
+// Import main styles
+@import "partials/_main";

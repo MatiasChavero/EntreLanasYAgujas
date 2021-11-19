@@ -1,0 +1,220 @@
+// Wordpress WYSIWYG editor styles
+.entry {
+    p {
+        font-size: 15px;
+        line-height: 150%;
+        margin-bottom: 20px;
+    	@include breakpoint(phone) {
+        	margin-bottom: 30px;
+            font-size: 18px;
+        }
+    }
+    strong {
+        font-weight: 700;
+    }
+    em {
+        font-style: italic;
+    }
+    hr {
+        border-bottom: none;
+        border-color: var(--color-black);
+        margin-bottom: 30px;
+    }
+    a {
+        color: var(--color-primary);
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+    h1, h2, h3, h4, h5, h6 {
+        font-weight: 700;
+        line-height: 95%;
+        margin-bottom: 20px;
+    	@include breakpoint(phone) {
+        	margin-bottom: 30px;
+        }
+    }
+    h1 {
+        font-size: 26px;
+    	@include breakpoint(phone) {
+            font-size: 40px;
+        }
+    }
+    h2 {
+        font-size: 24px;
+    	@include breakpoint(phone) {
+            font-size: 38px;
+        }
+    }
+    h3 {
+        font-size: 22px;
+    	@include breakpoint(phone) {
+            font-size: 36px;
+        }
+    }
+    h4 {
+        font-size: 20px;
+    	@include breakpoint(phone) {
+            font-size: 34px;
+        }
+    }
+    h5 {
+        font-size: 18px;
+    	@include breakpoint(phone) {
+            font-size: 32px;
+        }
+    }
+    h6 {
+        font-size: 18px;
+    	@include breakpoint(phone) {
+            font-size: 30px;
+        }
+    }
+    ul, ol {
+        font-size: 15px;
+        line-height: 150%;
+        margin-bottom: 20px;
+        padding-left: 20px;
+    	@include breakpoint(phone) {
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+        li {
+            margin-bottom: 12px;
+        }
+    }
+    ul {
+        li {
+            list-style: square;
+        }
+    }
+    ol {
+        li {
+            list-style: decimal;
+        }
+    }
+    blockquote {
+        margin-bottom: 20px;
+        font-size: 22px;
+        font-weight: 700;
+    	@include breakpoint(phone) {
+            margin-bottom: 30px;
+            font-size: 40px;
+        }
+        p {
+	        font-size: 22px;
+	        font-weight: 700;
+	    	@include breakpoint(phone) {
+	            font-size: 40px;
+	        }
+	    }
+    }
+    table {
+        width: 100%;
+        margin-bottom: 20px;
+    	@include breakpoint(phone) {
+            margin-bottom: 30px;
+        }
+        td, th {
+            padding: 15px;
+            text-align: center;
+            font-size: 15px;
+            color: var(--color-black);
+            letter-spacing: -0.01em;
+        }
+        th {
+            background-color: var(--color-black);
+            color: var(--color-white);
+            font-weight: 700;
+        }
+        tr {
+            td {
+                background-color: var(--color-white);
+            }
+            &:nth-child(odd) {
+                td {
+                    background-color: darken(#FFFFFF, 5%);
+                }
+            }
+        }
+    }
+    img {
+        margin-bottom: 20px;
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+    	@include breakpoint(phone) {
+            width: auto;
+        	margin-bottom: 30px;
+        }
+    }
+	.size-full {
+	    width: 100%;
+	    height: auto;
+	    margin-bottom: 20px;
+    	@include breakpoint(phone) {
+	        margin-bottom: 30px;
+	    }
+	}
+}
+
+.alignleft, img.alignleft {
+    margin-right: 1.5em;
+    display: inline;
+    float: left;
+}
+.alignright, img.alignright {
+    margin-left: 1.5em;
+    display: inline;
+    float: right;
+}
+.aligncenter, img.aligncenter {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    clear: both;
+ }
+.wp-caption {
+    margin-bottom: 1.5em;
+    text-align: center;
+    padding-top: 5px;
+}
+.wp-caption img {
+    border: 0 none;
+    padding: 0;
+    margin: 0;
+}
+.wp-caption p.wp-caption-text {
+    line-height: 1.5;
+    font-size: 10px;
+    margin: 0;
+}
+.wp-smiley {
+    margin: 0 !important;
+    max-height: 1em;
+}
+blockquote.left {
+    margin-right: 20px;
+    text-align: right;
+    margin-left: 0;
+    width: 33%;
+    float: left;
+}
+blockquote.right {
+    margin-left: 20px;
+    text-align: left;
+    margin-right: 0;
+    width: 33%;
+    float: right;
+}
+.gallery dl {}
+.gallery dt {}
+.gallery dd {}
+.gallery dl a {}
+.gallery dl img {}
+.gallery-caption {}
+
+.size-full {}
+.size-large {}
+.size-medium {}
+.size-thumbnail {}

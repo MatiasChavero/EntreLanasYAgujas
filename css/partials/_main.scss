@@ -1,0 +1,797 @@
+html,body{overflow-x:hidden !important}
+
+*,:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+
+body {
+    background-color: #F5F3EF;
+    font-family: 'Lato', 'sans-serif;';
+    color: var(--color-text);
+}
+
+// Container
+.container {
+    max-width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+    @include breakpoint(phone) {
+        max-width: 780px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    @include breakpoint(tablet-lg) {
+        max-width: 980px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    @include breakpoint(desktop-lg) {
+        max-width: 1212px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+//HEADER 
+.site-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    .site-header-image {
+        a {
+            img {
+                width: 120px;
+                height: 120px;
+                @include breakpoint(phone) {
+                    width: 200px;
+                    height: 200px;
+                }
+            }
+        }
+    }
+    .nav {
+        a {
+            margin-right: 8px;
+            font-size: 10px;
+            color: #707070;
+            font-weight: 300;
+            padding: 4px 0px;
+            display: block;
+            @include breakpoint(phone) {
+                margin-right: 20px;
+                font-size: 18px;
+                padding: 5px 0px;
+            }
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    }
+    .nav>li {
+        float: left;
+    }
+    .nav li ul {
+        display: none;
+        position: absolute;
+    }
+    .nav li:hover > ul {
+        display: block;
+    }
+}
+
+//INDEX
+.first-page {
+    background-image: url('../imagenes/img-fondo.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    &:before {
+        left: 0;
+        top: 0;
+        content: '';
+         display: block;
+         width: 100%;
+         height: 100%;
+         z-index: 5;
+         background-color: rgba(0,0,0, 0.4);
+         position: absolute;
+    }
+    .container {
+        padding-top: 100px;
+        padding-bottom: 100px;
+        position: relative;
+        z-index: 500;
+        @include breakpoint(phone) {
+            padding-top: 200px;
+            padding-bottom: 200px;
+        }
+        p {
+            text-align: center;
+            font-size: 25px;
+            color: #FFFFFF;
+            font-weight: 600;
+            line-height: 40px;
+            @include breakpoint(phone) {
+                font-size: 45px;
+                line-height: 70px;
+            }
+        }
+    }
+}
+
+//FOOTER
+.footer {
+    margin-top: 30px;
+    .container {
+        margin-bottom: 10px;
+        @include breakpoint(phone) {
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            margin-bottom: 10px;
+        }
+        .footer-image {
+            img {
+                display: none;
+                @include breakpoint(phone) {
+                    display: block;
+                    width: 120px;
+                    height: 120px;
+                }
+            }
+        }
+        .footer-description {
+            h4 {
+                display: none;
+                @include breakpoint(phone) {
+                    display: inline-block;
+                    color: #707070;
+                    font-size: 25px;
+                    font-weight: 300;
+                    margin-bottom: 12px;
+                }
+            }
+            .footer-description-1 {
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                @include breakpoint(phone) {
+                    display: block;
+                }
+                .footer-description-2 {
+                    display: flex;
+                    align-items: center;
+                    margin-bottom: 12px;
+                    .footer-description-2-image {
+                        margin-right: 5px;
+                        @include breakpoint(phone) {
+                            margin-right: 10px;
+                        }
+                        img {
+                            width: 10px;
+                            height: 10px;
+                            @include breakpoint(phone) {
+                                width: 20px;
+                                height: 20px;
+                            }
+                        }
+                    }
+                    .footer-description-2-link {
+                        a {
+                            color: #707070;
+                            font-size: 10px;
+                            font-weight: 500;
+                            @include breakpoint(phone) {
+                                font-size: 15px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .p-copyright {
+        text-align: center;
+        font-size: 7px;
+        color: #707070;
+        font-weight: 300;
+        @include breakpoint(phone) {
+            font-size: 10px;
+            margin-bottom: 5px;
+        }
+    }
+}
+
+//CONTACTO
+.contact {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    .container {
+        .form-filter {
+            width: 100%;
+            margin-right: auto;
+            margin-left: auto;
+            @include breakpoint(phone) {
+                width: 620px;
+                margin-right: auto;
+                margin-left: auto;
+            }
+            .form-filter-general {
+                @include breakpoint(phone) {
+                    display: flex;
+                }
+                .form-filter-description {
+                    margin-bottom: 20px;
+                    @include breakpoint(phone) {
+                        margin-right: 20px;
+                        margin-bottom: 20px;
+                    }
+                    input {
+                        width: 100%;
+                        height: 30px;
+                        font-size: 12px;
+                        color: #707070;
+                        padding-left: 5px;
+                        @include breakpoint(phone) {
+                            width: 300px;
+                            height: 30px;
+                        }
+                    }
+                }
+            }
+        }
+        .form-filter-description-2 {
+            margin-bottom: 20px;
+            input {
+                width: 100%;
+                height: 30px;
+                font-size: 12px;
+                color: #707070;
+                padding-left: 5px;
+                @include breakpoint(phone) {
+                    width: 620px;
+                }
+            }
+        }
+        .form-filter-description-3 {
+            textarea {
+                max-width: 100%;
+                min-width: 100%;
+                max-height: 300px;
+                min-height: 300px;
+                font-size: 12px;
+                color: #707070;
+                padding-left: 5px;
+                @include breakpoint(phone) {
+                    max-width: 620px;
+                    min-width: 620px;
+                }
+            }
+        }
+        .form-filter-button {
+            text-align: center;
+            margin-top: 20px;
+            button {
+                font-size: 12px;
+                color: #707070;
+                background-color: #ffffff;
+                border-color: #707070;
+                border-radius: 10px;
+                padding: 5px 20px;
+                @include breakpoint(phone) {
+                    font-size: 15px;
+                    padding: 10px 25px;
+                }
+            }
+            button:hover {
+                color: #FFFFFF;
+                background-color: #707070;
+            }
+        }
+    }
+}
+
+//OFERTAS
+.ofertas {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    .container {
+        .ofertas-description {
+            @include breakpoint(phone) {
+                display: flex;
+                flex-wrap: wrap;
+                margin-right: -16px;
+            }
+            .ofertas-description-list {
+                display: grid;
+                margin-bottom: 25px;
+                border: solid #707070 1px;
+                transition: box-shadow .3s;
+                &:hover {
+                    box-shadow: 8px 8px 3px rgba(33,33,33,.2); 
+                }
+                @include breakpoint(phone) {
+                    width: calc(100%/3 - 16px);
+                    margin-bottom: 15px;
+                    margin-right: 15px;
+                }
+                @include breakpoint(tablet-lg) {
+                    width: calc(100%/4 - 16px);
+                }
+                .ofertas-img {
+                    img {
+                        width: 100%;
+                        height: 400px;
+                        @include breakpoint(phone) {
+                            width: 100%;
+                            height: 300px;
+                        }
+                        @include breakpoint(tablet-lg) {
+                            width: 100%;
+                            height: 340px;
+                        }
+                    }
+                }
+                .ofertas-text {
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                    h3 {
+                        font-size: 20px;
+                        font-weight: 700;
+                        color: #707070;
+                        text-align: center;
+                        @include breakpoint(phone) {
+                            font-size: 22px;
+                        }
+                        @include breakpoint(tablet-lg) {
+                            font-size: 25px;
+                        }
+                    }
+                    .p-description {
+                        font-size: 15px;
+                        font-weight: 400;
+                        color: #707070;
+                        margin-top: 10px;
+                        padding-left: 10px;
+                        @include breakpoint(phone) {
+                            font-size: 16px;
+                            padding-right: 5px;
+                        }
+                        @include breakpoint(tablet-lg) {
+                            font-size: 18px;
+                            padding-right: 10px;
+                        }
+                    }
+                    .p-description-precio {
+                        display: flex;
+                        margin-top: 10px;
+                        padding-left: 10px;
+                        .p-precio-none {
+                            margin-right: 10px;
+                            color: #707070;
+                            font-size: 15px;
+                            font-weight: 300;
+                            text-decoration: line-through;
+                        }
+                        .p-precio {
+                            font-size: 15px;
+                            color: #707070;
+                            font-weight: 300;
+                        }
+                    }
+                }
+                .ofertas-button {
+                    display: inline-block;
+                    background-color: #707070;
+                    width: auto;
+                    text-align: center;
+                    margin-top: auto;
+                    a {
+                        display: inline-block;
+                        color: #FFFFFF;
+                        font-size: 15px;
+                        padding: 10px 0px 10px 0px;
+                        @include breakpoint(phone) {
+                            font-size: 20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+//DAMAS
+.damas {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    .container {
+        .damas-description {
+            @include breakpoint(phone) {
+                display: flex;
+                flex-wrap: wrap;
+                margin-right: -16px;
+            }
+            .damas-description-list {
+                display: grid;
+                border: solid #707070 1px;
+                margin-bottom: 25px;
+                transition: box-shadow .3s;
+                &:hover {
+                    box-shadow: 8px 8px 3px rgba(33,33,33,.2); 
+                }
+                @include breakpoint(phone) {
+                    width: calc(100%/3 - 16px);
+                    margin-bottom: 15px;
+                    margin-right: 15px;
+                }
+                @include breakpoint(tablet-lg) {
+                    width: calc(100%/4 - 16px);
+                }
+                .damas-img {
+                    img {
+                        width: 100%;
+                        height: 400px;
+                        @include breakpoint(phone) {
+                            width: 100%;
+                            height: 300px;
+                        }
+                        @include breakpoint(tablet-lg) {
+                            width: 100%;
+                            height: 340px;
+                        }
+                    }
+                }
+                .damas-text {
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                    h3 {
+                        font-size: 20px;
+                        font-weight: 700;
+                        color: #707070;
+                        text-align: center;
+                        @include breakpoint(phone) {
+                            font-size: 22px;
+                        }
+                        @include breakpoint(tablet-lg) {
+                            font-size: 25px;
+                        }
+                    }
+                    .p-description {
+                        font-size: 15px;
+                        font-weight: 400;
+                        color: #707070;
+                        margin-top: 10px;
+                        padding-left: 10px;
+                        @include breakpoint(phone) {
+                            font-size: 16px;
+                            padding-right: 5px;
+                        }
+                        @include breakpoint(tablet-lg) {
+                            font-size: 18px;
+                            padding-right: 10px;
+                        }
+                    }
+                    .p-precio {
+                        font-size: 15px;
+                        color: #707070;
+                        font-weight: 300;
+                        margin-top: 10px;
+                        padding-left: 10px;
+                    }
+                }
+                .damas-button {
+                    display: inline-block;
+                    background-color: #707070;
+                    width: auto;
+                    text-align: center;
+                    margin-top: auto;
+                    a {
+                        display: inline-block;
+                        color: #FFFFFF;
+                        font-size: 15px;
+                        padding: 10px 0px 10px 0px;
+                        @include breakpoint(phone) {
+                            font-size: 20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+//NIÑOS
+.niños {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    .container {
+        .niños-description {
+            @include breakpoint(phone) {
+                display: flex;
+                flex-wrap: wrap;
+                margin-right: -16px;
+            }
+            .niños-description-list {
+                display: grid;
+                border: solid #707070 1px;
+                margin-bottom: 25px;
+                transition: box-shadow .3s;
+                &:hover {
+                    box-shadow: 8px 8px 3px rgba(33,33,33,.2); 
+                }
+                @include breakpoint(phone) {
+                    width: calc(100%/3 - 16px);
+                    margin-bottom: 15px;
+                    margin-right: 15px;
+                }
+                @include breakpoint(tablet-lg) {
+                    width: calc(100%/4 - 16px);
+                }
+                .niños-img {
+                    img {
+                        width: 100%;
+                        height: 400px;
+                        @include breakpoint(phone) {
+                            width: 100%;
+                            height: 300px;
+                        }
+                        @include breakpoint(tablet-lg) {
+                            width: 100%;
+                            height: 340px;
+                        }
+                    }
+                }
+                .niños-text {
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                    h3 {
+                        font-size: 20px;
+                        font-weight: 700;
+                        color: #707070;
+                        text-align: center;
+                        @include breakpoint(phone) {
+                            font-size: 22px;
+                        }
+                        @include breakpoint(tablet-lg) {
+                            font-size: 25px;
+                        }
+                    }
+                    .p-description {
+                        font-size: 15px;
+                        font-weight: 400;
+                        color: #707070;
+                        margin-top: 10px;
+                        padding-left: 10px;
+                        @include breakpoint(phone) {
+                            font-size: 16px;
+                        }
+                        @include breakpoint(tablet-lg) {
+                            font-size: 18px;
+                            padding-right: 10px;
+                        }
+                    }
+                    .p-precio {
+                        font-size: 15px;
+                        color: #707070;
+                        font-weight: 300;
+                        margin-top: 10px;
+                        padding-left: 10px;
+                    }
+                }
+                .niños-button {
+                    display: inline-block;
+                    background-color: #707070;
+                    width: auto;
+                    text-align: center;
+                    margin-top: auto;
+                    a {
+                        display: inline-block;
+                        color: #FFFFFF;
+                        font-size: 15px;
+                        padding: 10px 0px 10px 0px;
+                        @include breakpoint(phone) {
+                            font-size: 20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+//ACCESORIOS
+.accesorios {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    .container {
+        .accesorios-description {
+            @include breakpoint(phone) {
+                display: flex;
+                flex-wrap: wrap;
+                margin-right: -16px;
+            }
+            .accesorios-description-list {
+                display: grid;
+                border: solid #707070 1px;
+                margin-bottom: 25px;
+                transition: box-shadow .3s;
+                &:hover {
+                    box-shadow: 8px 8px 3px rgba(33,33,33,.2); 
+                }
+                @include breakpoint(phone) {
+                    width: calc(100%/3 - 16px);
+                    margin-bottom: 15px;
+                    margin-right: 15px;
+                }
+                @include breakpoint(tablet-lg) {
+                    width: calc(100%/4 - 16px);
+                }
+                .accesorios-img {
+                    img {
+                        width: 100%;
+                        height: 400px;
+                        @include breakpoint(phone) {
+                            width: 100%;
+                            height: 300px;
+                        }
+                        @include breakpoint(tablet-lg) {
+                            width: 100%;
+                            height: 340px;
+                        }
+                    }
+                }
+                .accesorios-text {
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                    h3 {
+                        font-size: 20px;
+                        font-weight: 700;
+                        color: #707070;
+                        text-align: center;
+                        @include breakpoint(phone) {
+                            font-size: 22px;
+                        }
+                        @include breakpoint(tablet-lg) {
+                            font-size: 25px;
+                        }
+                    }
+                    .p-description {
+                        font-size: 15px;
+                        font-weight: 400;
+                        color: #707070;
+                        margin-top: 10px;
+                        padding-left: 10px;
+                        @include breakpoint(phone) {
+                            font-size: 16px;
+                            padding-right: 10px;
+                        }
+                        @include breakpoint(tablet-lg) {
+                            font-size: 18px;
+                            padding-right: 10px;
+                        }
+                    }
+                    .p-precio {
+                        font-size: 15px;
+                        color: #707070;
+                        font-weight: 300;
+                        margin-top: 10px;
+                        padding-left: 10px;
+                    }
+                }
+                .accesorios-button {
+                    display: inline-block;
+                    background-color: #707070;
+                    width: auto;
+                    text-align: center;
+                    margin-top: auto;
+                    a {
+                        display: block;
+                        color: #FFFFFF;
+                        font-size: 15px;
+                        padding: 10px 0px 10px 0px;
+                        @include breakpoint(phone) {
+                            font-size: 20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+//PRODUCTOS
+.productos {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    .container {
+        @include breakpoint(phone) {
+            display: flex;
+            justify-content: space-around;
+        }
+        .productos-imagen {
+            width: 100%;
+            display: block;
+            @include breakpoint(phone) {
+                 width: 40%;
+                display: block;
+            }
+            .productos-imagen-description {
+                img {
+                    width: 100%;
+                    height: 400px;
+                    @include breakpoint(phone) {
+                        width: 100%;
+                        height: 400px;
+                    }
+                    @include breakpoint(tablet-lg) {
+                        width: 100%;
+                        height: 500px;
+                    }
+                }
+            }
+        }
+        .productos-general {
+            @include breakpoint(phone) {
+                margin-left: 20px;
+                margin-right: 20px;
+            }
+            h3 {
+                font-size: 20px;
+                font-weight: 700;
+                color: #707070;
+                margin-top: 20px;
+                @include breakpoint(phone) {
+                    font-size: 25px;
+                }
+            }
+            .productos-description {
+                font-size: 15px;
+                font-weight: 400;
+                color: #707070;
+                margin-top: 20px;
+                line-height: 20px;
+                @include breakpoint(phone) {
+                    font-size: 18px;
+                }
+            }
+            .productos-precio {
+                font-size: 15px;
+                color: #707070;
+                font-weight: 300;
+                margin-top: 20px;
+            }
+            .productos-oferta {
+                font-size: 18px;
+                color: #707070;
+                font-weight: 300;
+                margin-top: 20px;
+            }
+        }
+        .slick-dots {
+            display: flex;
+            justify-content: center; 
+            margin: 0;
+            padding: 20px 0px;
+            list-style-type: none;
+        }
+        li {
+            margin: 5px;
+        }
+        button {
+            display: block;
+            width: 10px;
+            height: 10px;
+            padding: 0;
+            border: none;
+            border-radius: 100%;
+            background-color: #707070;
+            text-indent: -9999px;
+        }   
+        li.slick-active button {
+            background-color: #000000;
+        }
+    }
+}

@@ -1,0 +1,17 @@
+// A map of breakpoints.
+$breakpoints: (
+  phone-sm: 420px,
+  phone: 767px,
+  tablet-lg: 1024px,
+  desktop-lg: 1202px
+);
+
+:root {
+  --main-font: "Flama";
+  --color-text: #222;
+  --color-primary: #fafafa;
+  --color-white: #FFFFFF;
+  --border-radius: 5px;
+  --color-white: #fff;
+  --color-black: #000;
+}
