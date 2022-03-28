@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3033.jpeg" alt="posa fuentes en totora">
+					<img src="imagenes/Accesorios/IMG_3033.jpg" alt="posa fuentes en totora">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3034.jpeg" alt="detalle del tejido">
+					<img src="imagenes/Accesorios/IMG_3034.jpg" alt="detalle del tejido">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3035.jpeg" alt="detalle del tejido">
+					<img src="imagenes/Accesorios/IMG_3035.jpg" alt="detalle del tejido">
 				</li>
 			</ul>
 			<div class="productos-general">

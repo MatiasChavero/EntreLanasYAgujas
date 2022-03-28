@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3006.jpeg" alt="amigurumi pez frente">
+					<img src="imagenes/Accesorios/IMG_3006.jpg" alt="amigurumi pez frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3007.jpeg" alt="amigurumi pez costado">
+					<img src="imagenes/Accesorios/IMG_3007.jpg" alt="amigurumi pez costado">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3008.jpeg" alt="amigurumi pez frente">
+					<img src="imagenes/Accesorios/IMG_3008.jpg" alt="amigurumi pez frente">
 				</li>
 			</ul>
 			<div class="productos-general">

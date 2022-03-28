@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3018.jpeg" alt="posa fuentes rojo y negro totora">
+					<img src="imagenes/Accesorios/IMG_3018.jpg" alt="posa fuentes rojo y negro totora">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3019.jpeg" alt="detalle del tejido totora">
+					<img src="imagenes/Accesorios/IMG_3019.jpg" alt="detalle del tejido totora">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3020.jpeg" alt="detalle del tejido totora">
+					<img src="imagenes/Accesorios/IMG_3020.jpg" alt="detalle del tejido totora">
 				</li>
 			</ul>
 			<div class="productos-general">

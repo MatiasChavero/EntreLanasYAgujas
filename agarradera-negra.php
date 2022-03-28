@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3024.jpeg" alt="agarradera en totora">
+					<img src="imagenes/Accesorios/IMG_3024.jpg" alt="agarradera en totora">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3025.jpeg" alt="detalle del tejido">
+					<img src="imagenes/Accesorios/IMG_3025.jpg" alt="detalle del tejido">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3026.jpeg" alt="detalle del tejido">
+					<img src="imagenes/Accesorios/IMG_3026.jpg" alt="detalle del tejido">
 				</li>
 			</ul>
 			<div class="productos-general">

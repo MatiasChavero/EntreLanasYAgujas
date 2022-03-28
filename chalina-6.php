@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_2672.jpg" alt="chalina">
+					<img src="imagenes/Temporada/Invierno/Damas/IMG_2672.jpg" alt="chalina">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_2674.jpg" alt="chalina">
+					<img src="imagenes/Temporada/Invierno/Damas/IMG_2674.jpg" alt="chalina">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_2675.jpg" alt="detalle del tejido">
+					<img src="imagenes/Temporada/Invierno/Damas/IMG_2675.jpg" alt="detalle del tejido">
 				</li>
 			</ul>
 			<div class="productos-general">

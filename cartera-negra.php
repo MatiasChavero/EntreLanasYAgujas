@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Ofertas/IMG_3061.jpeg" alt="cartera negra frente">
+					<img src="imagenes/Ofertas/IMG_3061.jpg" alt="cartera negra frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Ofertas/IMG_3062.jpeg" alt="cartera negra arriba">
+					<img src="imagenes/Ofertas/IMG_3062.jpg" alt="cartera negra arriba">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Ofertas/IMG_3063.jpeg" alt="detalle del tejido">
+					<img src="imagenes/Ofertas/IMG_3063.jpg" alt="detalle del tejido">
 				</li>
 			</ul>
 			<div class="productos-general">

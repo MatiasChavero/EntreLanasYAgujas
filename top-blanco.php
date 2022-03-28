@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2654.jpg" alt="top blanca frente">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2654.jpg" alt="top blanca frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2655.jpg" alt="top blanco costado">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2655.jpg" alt="top blanco costado">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2656.jpg" alt="top blanco espalda">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2656.jpg" alt="top blanco espalda">
 				</li>
 			</ul>
 			<div class="productos-general">

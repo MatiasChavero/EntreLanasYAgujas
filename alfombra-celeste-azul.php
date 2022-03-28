@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3046.jpeg" alt="alfombra en totora">
+					<img src="imagenes/Accesorios/IMG_3046.jpg" alt="alfombra en totora">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3047.jpeg" alt="detalle del tejido">
+					<img src="imagenes/Accesorios/IMG_3047.jpg" alt="detalle del tejido">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3048.jpeg" alt="detalle del tejido">
+					<img src="imagenes/Accesorios/IMG_3048.jpg" alt="detalle del tejido">
 				</li>
 			</ul>
 			<div class="productos-general">

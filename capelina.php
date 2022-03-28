@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3012.jpeg" alt="capelina rosa">
+					<img src="imagenes/Accesorios/IMG_3012.jpg" alt="capelina rosa">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3013.jpeg" alt="capelina rosa">
+					<img src="imagenes/Accesorios/IMG_3013.jpg" alt="capelina rosa">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3014.jpeg" alt="detalle de tejido">
+					<img src="imagenes/Accesorios/IMG_3014.jpg" alt="detalle de tejido">
 				</li>
 			</ul>
 			<div class="productos-general">

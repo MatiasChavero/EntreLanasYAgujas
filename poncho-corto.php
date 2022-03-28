@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2636.jpg" alt="poncho corto frente">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2636.jpg" alt="poncho corto frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2637.jpg" alt="poncho corto costado">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2637.jpg" alt="poncho corto costado">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2638.jpg" alt="poncho corto espalda">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2638.jpg" alt="poncho corto espalda">
 				</li>
 			</ul>
 			<div class="productos-general">

@@ -4,6 +4,38 @@
 			<ul class="ofertas-description">
 				<li class="ofertas-description-list">
 					<div class="ofertas-img">
+						<img src="imagenes/Ofertas/IMG_2770.jpg" alt="campera bebe">
+					</div>
+					<div class="ofertas-text">
+						<h3>Campera</h3>
+						<p class="p-description">Tejida 2 agujas, hilo algodón.</p>
+						<div class="p-description-precio">
+							<p class="p-precio-none">$600</p>
+							<p class="p-precio">$450</p>
+						</div>
+					</div>
+					<div class="ofertas-button">
+						<a href="./campera-oferta.php">Ver más</a>
+					</div>
+				</li>
+				<li class="ofertas-description-list">
+					<div class="ofertas-img">
+						<img src="imagenes/Ofertas/IMG_2780.jpg" alt="saquito bebe">
+					</div>
+					<div class="ofertas-text">
+						<h3>Saquito</h3>
+						<p class="p-description">Tejido 2 agujas, hilo algodón.</p>
+						<div class="p-description-precio">
+							<p class="p-precio-none">$700</p>
+							<p class="p-precio">$500</p>
+						</div>
+					</div>
+					<div class="ofertas-button">
+						<a href="saquito-oferta.php">Ver más</a>
+					</div>
+				</li>
+				<li class="ofertas-description-list">
+					<div class="ofertas-img">
 						<img src="imagenes/Ofertas/IMG_2629.jpg" alt="remeron largo verde">
 					</div>
 					<div class="ofertas-text">
@@ -68,38 +100,6 @@
 				</li>
 				<li class="ofertas-description-list">
 					<div class="ofertas-img">
-						<img src="imagenes/Ofertas/IMG_2770.jpg" alt="campera bebe">
-					</div>
-					<div class="ofertas-text">
-						<h3>Campera</h3>
-						<p class="p-description">Tejida 2 agujas, hilo algodón.</p>
-						<div class="p-description-precio">
-							<p class="p-precio-none">$600</p>
-							<p class="p-precio">$450</p>
-						</div>
-					</div>
-					<div class="ofertas-button">
-						<a href="./campera-oferta.php">Ver más</a>
-					</div>
-				</li>
-				<li class="ofertas-description-list">
-					<div class="ofertas-img">
-						<img src="imagenes/Ofertas/IMG_2780.jpg" alt="saquito bebe">
-					</div>
-					<div class="ofertas-text">
-						<h3>Saquito</h3>
-						<p class="p-description">Tejido 2 agujas, hilo algodón.</p>
-						<div class="p-description-precio">
-							<p class="p-precio-none">$700</p>
-							<p class="p-precio">$500</p>
-						</div>
-					</div>
-					<div class="ofertas-button">
-						<a href="saquito-oferta.php">Ver más</a>
-					</div>
-				</li>
-				<li class="ofertas-description-list">
-					<div class="ofertas-img">
 						<img src="imagenes/Ofertas/IMG_2783.jpg" alt="pollera niña">
 					</div>
 					<div class="ofertas-text">
@@ -132,23 +132,7 @@
 				</li>
 				<li class="ofertas-description-list">
 					<div class="ofertas-img">
-						<img src="imagenes/Ofertas/IMG_3009.jpeg" alt="tortuga tejida">
-					</div>
-					<div class="ofertas-text">
-						<h3>Amigurumi</h3>
-						<p class="p-description">Tortuga tejida al crochet.</p>
-						<div class="p-description-precio">
-							<p class="p-precio-none">$600</p>
-							<p class="p-precio">$450</p>
-						</div>
-					</div>
-					<div class="ofertas-button">
-						<a href="./tortuga-oferta.php">Ver más</a>
-					</div>
-				</li>
-				<li class="ofertas-description-list">
-					<div class="ofertas-img">
-						<img src="imagenes/Ofertas/IMG_3049.jpeg" alt="cartera naranja y azul">
+						<img src="imagenes/Ofertas/IMG_3049.jpg" alt="cartera naranja y azul">
 					</div>
 					<div class="ofertas-text">
 						<h3>Cartera</h3>
@@ -164,7 +148,7 @@
 				</li>
 				<li class="ofertas-description-list">
 					<div class="ofertas-img">
-						<img src="imagenes/Ofertas/IMG_3052.jpeg" alt="cartera celeste">
+						<img src="imagenes/Ofertas/IMG_3052.jpg" alt="cartera celeste">
 					</div>
 					<div class="ofertas-text">
 						<h3>Cartera</h3>
@@ -180,23 +164,7 @@
 				</li>
 				<li class="ofertas-description-list">
 					<div class="ofertas-img">
-						<img src="imagenes/Ofertas/IMG_3055.jpeg" alt="cartera verde claro y oscuro">
-					</div>
-					<div class="ofertas-text">
-						<h3>Cartera</h3>
-						<p class="p-description">Tejida a telar y crochet.</p>
-						<div class="p-description-precio">
-							<p class="p-precio-none">$600</p>
-							<p class="p-precio">$400</p>
-						</div>
-					</div>
-					<div class="ofertas-button">
-						<a href="./cartera-botones-verde.php">Ver más</a>
-					</div>
-				</li>
-				<li class="ofertas-description-list">
-					<div class="ofertas-img">
-						<img src="imagenes/Ofertas/IMG_3058.jpeg" alt="cartera verde claro y oscuro">
+						<img src="imagenes/Ofertas/IMG_3058.jpg" alt="cartera verde claro y oscuro">
 					</div>
 					<div class="ofertas-text">
 						<h3>Cartera</h3>
@@ -212,7 +180,39 @@
 				</li>
 				<li class="ofertas-description-list">
 					<div class="ofertas-img">
-						<img src="imagenes/Ofertas/IMG_3061.jpeg" alt="cartera negra">
+						<img src="imagenes/Ofertas/IMG_3064.jpg" alt="cartera blanca">
+					</div>
+					<div class="ofertas-text">
+						<h3>Cartera</h3>
+						<p class="p-description">Tejida crochet, con totora.</p>
+						<div class="p-description-precio">
+							<p class="p-precio-none">$700</p>
+							<p class="p-precio">$500</p>
+						</div>
+					</div>
+					<div class="ofertas-button">
+						<a href="./cartera-redonda-blanca.php">Ver más</a>
+					</div>
+				</li>
+				<li class="ofertas-description-list">
+					<div class="ofertas-img">
+						<img src="imagenes/Ofertas/IMG_3055.jpg" alt="cartera verde claro y oscuro">
+					</div>
+					<div class="ofertas-text">
+						<h3>Cartera</h3>
+						<p class="p-description">Tejida a telar y crochet.</p>
+						<div class="p-description-precio">
+							<p class="p-precio-none">$600</p>
+							<p class="p-precio">$400</p>
+						</div>
+					</div>
+					<div class="ofertas-button">
+						<a href="./cartera-botones-verde.php">Ver más</a>
+					</div>
+				</li>
+				<li class="ofertas-description-list">
+					<div class="ofertas-img">
+						<img src="imagenes/Ofertas/IMG_3061.jpg" alt="cartera negra">
 					</div>
 					<div class="ofertas-text">
 						<h3>Cartera</h3>
@@ -228,18 +228,18 @@
 				</li>
 				<li class="ofertas-description-list">
 					<div class="ofertas-img">
-						<img src="imagenes/Ofertas/IMG_3064.jpeg" alt="cartera blanca">
+						<img src="imagenes/Ofertas/IMG_3009.jpg" alt="tortuga tejida">
 					</div>
 					<div class="ofertas-text">
-						<h3>Cartera</h3>
-						<p class="p-description">Tejida crochet, con totora.</p>
+						<h3>Amigurumi</h3>
+						<p class="p-description">Tortuga tejida al crochet.</p>
 						<div class="p-description-precio">
-							<p class="p-precio-none">$700</p>
-							<p class="p-precio">$500</p>
+							<p class="p-precio-none">$600</p>
+							<p class="p-precio">$450</p>
 						</div>
 					</div>
 					<div class="ofertas-button">
-						<a href="./cartera-redonda-blanca.php">Ver más</a>
+						<a href="./tortuga-oferta.php">Ver más</a>
 					</div>
 				</li>
 			</ul>

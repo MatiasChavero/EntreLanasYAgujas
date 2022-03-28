@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2623.jpg" alt="remera cruzada frente">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2623.jpg" alt="remera cruzada frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2624.jpg" alt="remera cruzada costado">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2624.jpg" alt="remera cruzada costado">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2625.jpg" alt="remera cruzada espalda">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2625.jpg" alt="remera cruzada espalda">
 				</li>
 			</ul>
 			<div class="productos-general">

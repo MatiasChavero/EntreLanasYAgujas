@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_2999.jpeg" alt="amigurumi pato frente">
+					<img src="imagenes/Accesorios/IMG_2999.jpg" alt="amigurumi pato frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3001.jpeg" alt="amigurumi pato costado">
+					<img src="imagenes/Accesorios/IMG_3001.jpg" alt="amigurumi pato costado">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3002.jpeg" alt="amigurumi pato espalda">
+					<img src="imagenes/Accesorios/IMG_3002.jpg" alt="amigurumi pato espalda">
 				</li>
 			</ul>
 			<div class="productos-general">

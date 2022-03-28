@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2651.jpg" alt="top lila frente">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2651.jpg" alt="top lila frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2652.jpg" alt="top lila costado">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2652.jpg" alt="top lila costado">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2653.jpg" alt="top lila espalda">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2653.jpg" alt="top lila espalda">
 				</li>
 			</ul>
 			<div class="productos-general">

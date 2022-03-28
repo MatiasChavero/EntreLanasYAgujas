@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3030.jpeg" alt="posa pavas en totora">
+					<img src="imagenes/Accesorios/IMG_3030.jpg" alt="posa pavas en totora">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3031.jpeg" alt="detalle del tejido">
+					<img src="imagenes/Accesorios/IMG_3031.jpg" alt="detalle del tejido">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3032.jpeg" alt="detalle del tejido">
+					<img src="imagenes/Accesorios/IMG_3032.jpg" alt="detalle del tejido">
 				</li>
 			</ul>
 			<div class="productos-general">

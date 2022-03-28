@@ -8,8 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="" />
     <link rel="stylesheet" media="all" href="css/screen.css?v=1" />
-    <link rel="stylesheet" type="text/css" href="vendor/js/slick/slick.scss">
-    <link rel="icon" type="image/png" href="" />
+    <link rel="stylesheet" type="text/css" href="vendor/js/slick/slick.css">
+    <link rel="icon" type="image/png" href="imagenes/logo2.png" />
 
     <meta name="description" content="">
     <meta name="keywords" content="">
@@ -30,6 +30,16 @@
     <meta name="twitter:description" content="">
     <meta name="twitter:image:src" content="">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y8VBPTYT5R"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-Y8VBPTYT5R');
+    </script>
+
 
 </head>
 <body>

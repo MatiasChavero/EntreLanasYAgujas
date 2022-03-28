@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3015.jpeg" alt="amigurumi papa noel frente">
+					<img src="imagenes/Accesorios/IMG_3015.jpg" alt="amigurumi papa noel frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3016.jpeg" alt="amigurumi papa noel costado">
+					<img src="imagenes/Accesorios/IMG_3016.jpg" alt="amigurumi papa noel costado">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3017.jpeg" alt="amigurumi papa noel espalda">
+					<img src="imagenes/Accesorios/IMG_3017.jpg" alt="amigurumi papa noel espalda">
 				</li>
 			</ul>
 			<div class="productos-general">

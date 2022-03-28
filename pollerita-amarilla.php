@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Chicos/IMG_2795.jpg" alt="pollerita frente">
+					<img src="imagenes/Temporada/Verano/Ninos/IMG_2795.jpg" alt="pollerita frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Chicos/IMG_2796.jpg" alt="pollerita frente">
+					<img src="imagenes/Temporada/Verano/Ninos/IMG_2796.jpg" alt="pollerita frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Chicos/IMG_2797.jpg" alt="detalle del tejido">
+					<img src="imagenes/Temporada/Verano/Ninos/IMG_2797.jpg" alt="detalle del tejido">
 				</li>
 			</ul>
 			<div class="productos-general">

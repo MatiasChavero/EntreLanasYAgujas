@@ -11,7 +11,7 @@
 					</div>
 				</div>
 				<div class="form-filter-description-2">
-					<input type="email" name="mail" placeholder="Mail" required>
+					<input type="email" name="email" placeholder="Mail" required>
 				</div>
 				<div class="form-filter-description-3">
 					<textarea id="message" name="msg" placeholder="Mensaje"></textarea>
@@ -21,7 +21,7 @@
 				</div>
 			</form>
 			<?php
-				include("contacto-check.php")
+				include("contacto-check.php");
 			?>
 	</section>
 <?php require 'footer.php'; ?>

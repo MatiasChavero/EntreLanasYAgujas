@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_2617.jpg" alt="pañoleta rosa">
+					<img src="imagenes/Temporada/Invierno/Ninos/IMG_2617.jpg" alt="pañoleta rosa">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_2618.jpg" alt="detalle del tejido">
+					<img src="imagenes/Temporada/Invierno/Ninos/IMG_2618.jpg" alt="detalle del tejido">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_2619.jpg" alt="detalle del tejido">
+					<img src="imagenes/Temporada/Invierno/Ninos/IMG_2619.jpg" alt="detalle del tejido">
 				</li>
 			</ul>
 			<div class="productos-general">

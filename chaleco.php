@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Chicos/IMG_2786.jpg" alt="chaleco frente">
+					<img src="imagenes/Temporada/Verano/Ninos/IMG_2786.jpg" alt="chaleco frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Chicos/IMG_2787.jpg" alt="detalle del tejido">
+					<img src="imagenes/Temporada/Verano/Ninos/IMG_2787.jpg" alt="detalle del tejido">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Chicos/IMG_2788.jpg" alt="detalle del tejido">
+					<img src="imagenes/Temporada/Verano/Ninos/IMG_2788.jpg" alt="detalle del tejido">
 				</li>
 			</ul>
 			<div class="productos-general">

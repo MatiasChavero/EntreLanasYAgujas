@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2632.jpg" alt="solera frente">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2632.jpg" alt="solera frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2633.jpg" alt="solera costado">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2633.jpg" alt="solera costado">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2634.jpg" alt="solera espalda">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2634.jpg" alt="solera espalda">
 				</li>
 			</ul>
 			<div class="productos-general">

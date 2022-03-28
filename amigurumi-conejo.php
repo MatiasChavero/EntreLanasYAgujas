@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3003.jpeg" alt="amigurumi conejo frente">
+					<img src="imagenes/Accesorios/IMG_3003.jpg" alt="amigurumi conejo frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3004.jpeg" alt="amigurumi conejo costado">
+					<img src="imagenes/Accesorios/IMG_3004.jpg" alt="amigurumi conejo costado">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Accesorios/IMG_3005.jpeg" alt="amigurumi conejo espalda">
+					<img src="imagenes/Accesorios/IMG_3005.jpg" alt="amigurumi conejo espalda">
 				</li>
 			</ul>
 			<div class="productos-general">

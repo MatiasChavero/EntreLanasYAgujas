@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2620.jpg" alt="remeron rosa frente">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2620.jpg" alt="remeron rosa frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2621.jpg" alt="remeron rosa costado">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2621.jpg" alt="remeron rosa costado">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2622.jpg" alt="remeron rosa detrás">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2622.jpg" alt="remeron rosa detrás">
 				</li>
 			</ul>
 			<div class="productos-general">

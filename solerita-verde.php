@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Chicos/IMG_2792.jpg" alt="solerita frente">
+					<img src="imagenes/Temporada/Verano/Ninos/IMG_2792.jpg" alt="solerita frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Chicos/IMG_2793.jpg" alt="detalle del tejido">
+					<img src="imagenes/Temporada/Verano/Ninos/IMG_2793.jpg" alt="detalle del tejido">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Chicos/IMG_2794.jpg" alt="solerita frente detalle tejido">
+					<img src="imagenes/Temporada/Verano/Ninos/IMG_2794.jpg" alt="solerita frente detalle tejido">
 				</li>
 			</ul>
 			<div class="productos-general">

@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2626.jpg" alt="chaleco frente">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2626.jpg" alt="chaleco frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2627.jpg" alt="chaleco costado">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2627.jpg" alt="chaleco costado">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_2628.jpg" alt="chaleco espalda">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_2628.jpg" alt="chaleco espalda">
 				</li>
 			</ul>
 			<div class="productos-general">

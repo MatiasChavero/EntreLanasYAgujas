@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Ofertas/IMG_3009.jpeg" alt="saquito frente">
+					<img src="imagenes/Ofertas/IMG_3009.jpg" alt="saquito frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Ofertas/IMG_3010.jpeg" alt="saquito espalda">
+					<img src="imagenes/Ofertas/IMG_3010.jpg" alt="saquito espalda">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Ofertas/IMG_3011.jpeg" alt="saquito frente">
+					<img src="imagenes/Ofertas/IMG_3011.jpg" alt="saquito frente">
 				</li>
 			</ul>
 			<div class="productos-general">

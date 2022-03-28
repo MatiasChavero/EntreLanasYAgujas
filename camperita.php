@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Chicos/IMG_2776.jpg" alt="camperita multicolor frente">
+					<img src="imagenes/Temporada/Verano/Ninos/IMG_2776.jpg" alt="camperita multicolor frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Chicos/IMG_2777.jpg" alt="detalle del tejido">
+					<img src="imagenes/Temporada/Verano/Ninos/IMG_2777.jpg" alt="detalle del tejido">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Chicos/IMG_2779.jpg" alt="camperita multicolor espalda">
+					<img src="imagenes/Temporada/Verano/Ninos/IMG_2779.jpg" alt="camperita multicolor espalda">
 				</li>
 			</ul>
 			<div class="productos-general">

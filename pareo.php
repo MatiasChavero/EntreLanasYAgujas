@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_3067.jpeg" alt="pareo frente">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_3067.jpg" alt="pareo frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_3068.jpeg" alt="pareo espalda">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_3068.jpg" alt="pareo espalda">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Grandes/IMG_3069.jpeg" alt="detalle del tejido">
+					<img src="imagenes/Temporada/Verano/Damas/IMG_3069.jpg" alt="detalle del tejido">
 				</li>
 			</ul>
 			<div class="productos-general">

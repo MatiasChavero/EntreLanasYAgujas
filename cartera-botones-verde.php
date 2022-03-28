@@ -3,13 +3,13 @@
 		<div class="container">
 			<ul class="productos-imagen">
 				<li class="productos-imagen-description">
-					<img src="imagenes/Ofertas/IMG_3055.jpeg" alt="cartera verde frente">
+					<img src="imagenes/Ofertas/IMG_3055.jpg" alt="cartera verde frente">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Ofertas/IMG_3056.jpeg" alt="cartera verde arriba">
+					<img src="imagenes/Ofertas/IMG_3056.jpg" alt="cartera verde arriba">
 				</li>
 				<li class="productos-imagen-description">
-					<img src="imagenes/Ofertas/IMG_3057.jpeg" alt="detalle del tejido y botón">
+					<img src="imagenes/Ofertas/IMG_3057.jpg" alt="detalle del tejido y botón">
 				</li>
 			</ul>
 			<div class="productos-general">
