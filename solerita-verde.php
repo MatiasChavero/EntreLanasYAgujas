@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Solerita</h3>
 				<p class="productos-description">Solerita escotada color verde y blanca talle 3 años. Tejida al crochet con hilo fantasía.</p>
-				<p class="productos-precio">$900</p>
+				<p class="productos-precio">$1200</p>
 			</div>
 		</div>
 	</section>

@@ -9,7 +9,7 @@
 					<div class="accesorios-text">
 						<h3>Saco</h3>
 						<p class="p-description">Tejido al crochet sin costura.</p>
-						<p class="p-precio">$900</p>
+						<p class="p-precio">$1800</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./in-saco-sin-costura.php">Ver más</a>
@@ -22,7 +22,7 @@
 					<div class="accesorios-text">
 						<h3>Saco</h3>
 						<p class="p-description">Tejido al crochet con lana gruesa.</p>
-						<p class="p-precio">$900</p>
+						<p class="p-precio">$1800</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./in-saco-naranja-rayado.php">Ver más</a>
@@ -35,7 +35,7 @@
 					<div class="accesorios-text">
 						<h3>Saco</h3>
 						<p class="p-description">Tejido a máquina, lana gruesa.</p>
-						<p class="p-precio">$1000</p>
+						<p class="p-precio">$1600</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./in-saco-cruzado.php">Ver más</a>
@@ -48,7 +48,7 @@
 					<div class="accesorios-text">
 						<h3>Sweater</h3>
 						<p class="p-description">Tejido a máquina, lana gruesa.</p>
-						<p class="p-precio">$1200</p>
+						<p class="p-precio">$1900</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./in-sweater-beige.php">Ver más</a>
@@ -61,7 +61,7 @@
 					<div class="accesorios-text">
 						<h3>Saco</h3>
 						<p class="p-description">Tejido a máquina, lana gruesa.</p>
-						<p class="p-precio">$1500</p>
+						<p class="p-precio">$2500</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./in-saco-azul.php">Ver más</a>
@@ -74,7 +74,7 @@
 					<div class="accesorios-text">
 						<h3>Chaleco</h3>
 						<p class="p-description">Tejido 2 agujas, lana gruesa.</p>
-						<p class="p-precio">$1200</p>
+						<p class="p-precio">$2200</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./in-chaleco-azul-combinado.php">Ver más</a>
@@ -87,7 +87,7 @@
 					<div class="accesorios-text">
 						<h3>Chaleco</h3>
 						<p class="p-description">Tejido 2 agujas, lana gruesa.</p>
-						<p class="p-precio">$1200</p>
+						<p class="p-precio">$2500</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./in-chaleco-rosa.php">Ver más</a>
@@ -100,10 +100,23 @@
 					<div class="accesorios-text">
 						<h3>Chaleco</h3>
 						<p class="p-description">Tejido 2 agujas, lana gruesa.</p>
-						<p class="p-precio">$900</p>
+						<p class="p-precio">$1900</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./in-chaleco-naranja.php">Ver más</a>
+					</div>
+				</li>
+				<li class="accesorios-description-list">
+					<div class="accesorios-img">
+						<img src="imagenes/Temporada/Invierno/Ninos/IMG_5017.jpeg" alt="pancerito lana bebe">
+					</div>
+					<div class="accesorios-text">
+						<h3>Pancerito</h3>
+						<p class="p-description">Tejido 2 agujas, lana bebe.</p>
+						<p class="p-precio">$900</p>
+					</div>
+					<div class="accesorios-button">
+						<a href="./in-pancerito-celeste.php">Ver más</a>
 					</div>
 				</li>
 				<li class="accesorios-description-list">
@@ -113,7 +126,7 @@
 					<div class="accesorios-text">
 						<h3>Saquito</h3>
 						<p class="p-description">Tejido al crochet, lana gruesa.</p>
-						<p class="p-precio">$650</p>
+						<p class="p-precio">$1200</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./in-saquito-rosa.php">Ver más</a>
@@ -126,7 +139,7 @@
 					<div class="accesorios-text">
 						<h3>Saquito</h3>
 						<p class="p-description">Tejido 2 agujas, lana bebe.</p>
-						<p class="p-precio">$600</p>
+						<p class="p-precio">$1200</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./in-saquito-superbebe.php">Ver más</a>
@@ -139,7 +152,7 @@
 					<div class="accesorios-text">
 						<h3>Escarpines</h3>
 						<p class="p-description">Tejido al crochet, lana bebe.</p>
-						<p class="p-precio">$350</p>
+						<p class="p-precio">$500</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./in-escarpines-bebe.php">Ver más</a>
@@ -152,7 +165,7 @@
 					<div class="accesorios-text">
 						<h3>Escarpines</h3>
 						<p class="p-description">Tejido al crochet, lana bebe.</p>
-						<p class="p-precio">$350</p>
+						<p class="p-precio">$500</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./in-escarpines-azul.php">Ver más</a>
@@ -165,7 +178,7 @@
 					<div class="accesorios-text">
 						<h3>Pañoleta</h3>
 						<p class="p-description">Tejida al crochet, lana superbebe.</p>
-						<p class="p-precio">$2500</p>
+						<p class="p-precio">$3500</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./pañoleta.php">Ver más</a>

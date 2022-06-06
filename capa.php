@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Capa</h3>
 				<p class="productos-description">Capa corta tejida a dos agujas, con bolsillos.</p>
-				<p class="productos-precio">$1800</p>
+				<p class="productos-precio">$3000</p>
 			</div>
 		</div>
 	</section>

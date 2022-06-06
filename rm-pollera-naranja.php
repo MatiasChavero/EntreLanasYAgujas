@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Pollera</h3>
 				<p class="productos-description">Pollera corta color naranja con borde beige, tejida al crochet con lana.</p>
-				<p class="productos-precio">$500</p>
+				<p class="productos-precio">$1200</p>
 			</div>
 		</div>
 	</section>

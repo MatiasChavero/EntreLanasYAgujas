@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Escarpines</h3>
 				<p class="productos-description">Escarpines tejidos al crochet, lana bebe. Talle 0. </p>
-				<p class="productos-precio">$350</p>
+				<p class="productos-precio">$500</p>
 			</div>
 		</div>
 	</section>

@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Pollera</h3>
 				<p class="productos-description">Pollera corta color turquesa con blanco, tejida al crochet con hilo.</p>
-				<p class="productos-precio">$350</p>
+				<p class="productos-precio">$900</p>
 			</div>
 		</div>
 	</section>

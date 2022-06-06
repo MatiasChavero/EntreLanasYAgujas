@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Vestido y Capelina</h3>
 				<p class="productos-description">Vestido largo con capelina color blanco, tejido al crochet con hilo.</p>
-				<p class="productos-precio">$1200</p>
+				<p class="productos-precio">$2500</p>
 			</div>
 		</div>
 	</section>

@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Poncho corto</h3>
 				<p class="productos-description">Poncho corto calado con ondas color verde agua. Tejido al crochet, hilo con brillos.</p>
-				<p class="productos-precio">$2000</p>
+				<p class="productos-precio">$4000</p>
 			</div>
 		</div>
 	</section>

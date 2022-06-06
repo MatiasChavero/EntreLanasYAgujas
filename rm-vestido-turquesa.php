@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Vestido</h3>
 				<p class="productos-description">Vestido corto color turquesa, tejido al crochet con hilo.</p>
-				<p class="productos-precio">$500</p>
+				<p class="productos-precio">$1200</p>
 			</div>
 		</div>
 	</section>

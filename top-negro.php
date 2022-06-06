@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Top</h3>
 				<p class="productos-description">Top color negro talle XL. Tejido al crochet con hilo de algodón.</p>
-				<p class="productos-precio">$1300</p>
+				<p class="productos-precio">$2600</p>
 			</div>
 		</div>
 	</section>

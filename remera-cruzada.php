@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Remera cruzada</h3>
 				<p class="productos-description">Remera cruzada con botones color verde talle único. Tejida a dos agujas, hilo con brillos.</p>
-				<p class="productos-precio">$1800</p>
+				<p class="productos-precio">$3500</p>
 			</div>
 		</div>
 	</section>

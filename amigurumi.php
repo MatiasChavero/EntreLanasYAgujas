@@ -9,7 +9,7 @@
 					<div class="accesorios-text">
 						<h3>Amigurumi</h3>
 						<p class="p-description">Tejido al crochet.</p>
-						<p class="p-precio">$400</p>
+						<p class="p-precio">$800</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./amigurumi-pato.php">Ver más</a>
@@ -22,7 +22,7 @@
 					<div class="accesorios-text">
 						<h3>Amigurumi</h3>
 						<p class="p-description">Tejido 2 agujas, lana fantasía.</p>
-						<p class="p-precio">$500</p>
+						<p class="p-precio">$800</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./amigurumi-conejo.php">Ver más</a>
@@ -35,7 +35,7 @@
 					<div class="accesorios-text">
 						<h3>Amigurumi</h3>
 						<p class="p-description">Tejido crochet.</p>
-						<p class="p-precio">$400</p>
+						<p class="p-precio">$600</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./amigurumi-pez.php">Ver más</a>
@@ -48,7 +48,7 @@
 					<div class="accesorios-text">
 						<h3>Amigurumi</h3>
 						<p class="p-description">Tejido a crochet, lana fina.</p>
-						<p class="p-precio">$900</p>
+						<p class="p-precio">$1600</p>
 					</div>
 					<div class="accesorios-button">
 						<a href="./papa-noel.php">Ver más</a>

@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Pollerita</h3>
 				<p class="productos-description">Pollerita color amarilla con líneas, cintura adaptable talle 2 a 3 años. Tejida al crochet.</p>
-				<p class="productos-precio">$600</p>
+				<p class="productos-precio">$1100</p>
 			</div>
 		</div>
 	</section>

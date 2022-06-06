@@ -15,8 +15,8 @@
 			<div class="productos-general">
 				<h3>Remera</h3>
 				<p class="productos-description">Remera con breteles color lila y blanca talle M. Tejida al crochet, hilo de algodón.</p>
-				<p class="productos-precio">Antes $1500</p>
-				<p class="productos-oferta">Ahora $1200</p>
+				<p class="productos-precio">Antes $2700</p>
+				<p class="productos-oferta">Ahora $2400</p>
 			</div>
 		</div>
 	</section>

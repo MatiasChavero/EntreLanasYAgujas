@@ -15,8 +15,8 @@
 			<div class="productos-general">
 				<h3>Camperita</h3>
 				<p class="productos-description">Camperita con botones matizada hilo de algodón. Talle 2 años.</p>
-				<p class="productos-precio">Antes $600</p>
-				<p class="productos-oferta">Ahora $450</p>
+				<p class="productos-precio">Antes $1200</p>
+				<p class="productos-oferta">Ahora $900</p>
 			</div>
 		</div>
 	</section>

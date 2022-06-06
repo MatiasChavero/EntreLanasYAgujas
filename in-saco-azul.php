@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Saco</h3>
 				<p class="productos-description">Saco con botones cruzados cuello smoking, tejido a máquina. Lana gruesa. Talle 10.</p>
-				<p class="productos-precio">$1500</p>
+				<p class="productos-precio">$2500</p>
 			</div>
 		</div>
 	</section>

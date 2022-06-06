@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Chaleco</h3>
 				<p class="productos-description">Chaleco color verde fantasía con motitas de colores talle 2 a 3 años. Tejido a 2 agujas.</p>
-				<p class="productos-precio">$750</p>
+				<p class="productos-precio">$1400</p>
 			</div>
 		</div>
 	</section>

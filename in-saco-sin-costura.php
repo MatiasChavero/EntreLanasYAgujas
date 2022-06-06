@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Saco</h3>
 				<p class="productos-description">Saco sin costura en redondo, tejido al crochet. Talle 4-6.</p>
-				<p class="productos-precio">$900</p>
+				<p class="productos-precio">$1800</p>
 			</div>
 		</div>
 	</section>

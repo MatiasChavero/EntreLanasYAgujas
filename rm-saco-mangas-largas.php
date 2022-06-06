@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Saco</h3>
 				<p class="productos-description">Saco mangas largas color verde, tejido al crochet con hilo.</p>
-				<p class="productos-precio">$600</p>
+				<p class="productos-precio">$1100</p>
 			</div>
 		</div>
 	</section>

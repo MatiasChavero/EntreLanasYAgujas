@@ -15,8 +15,8 @@
 			<div class="productos-general">
 				<h3>Cartera</h3>
 				<p class="productos-description">Cartera chica, color celeste tejida al telar, con totora.</p>
-				<p class="productos-precio">Antes $300</p>
-				<p class="productos-oferta">Ahora $200</p>
+				<p class="productos-precio">Antes $900</p>
+				<p class="productos-oferta">Ahora $750</p>
 			</div>
 		</div>
 	</section>

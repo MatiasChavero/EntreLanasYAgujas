@@ -15,8 +15,8 @@
 			<div class="productos-general">
 				<h3>Remeron</h3>
 				<p class="productos-description">Remeron largo rayado color verde talle M. Tejido al crochet, hilo con brillos.</p>
-				<p class="productos-precio">Antes $1800</p>
-				<p class="productos-oferta">Ahora $1200</p>
+				<p class="productos-precio">Antes $3300</p>
+				<p class="productos-oferta">Ahora $2900</p>
 			</div>
 		</div>
 	</section>

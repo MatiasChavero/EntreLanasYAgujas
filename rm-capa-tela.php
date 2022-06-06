@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Capa</h3>
 				<p class="productos-description">Capa de tela con terminación en hilo blanco.</p>
-				<p class="productos-precio">$350</p>
+				<p class="productos-precio">$800</p>
 			</div>
 		</div>
 	</section>

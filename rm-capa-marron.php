@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Capa</h3>
 				<p class="productos-description">Capa color marrón, tejida al crochet con hilo.</p>
-				<p class="productos-precio">$400</p>
+				<p class="productos-precio">$900</p>
 			</div>
 		</div>
 	</section>

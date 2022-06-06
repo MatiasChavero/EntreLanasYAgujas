@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Bufanda</h3>
 				<p class="productos-description">Bufanda ancha tejida a 2 agujas, lana fantasía.</p>
-				<p class="productos-precio">$700</p>
+				<p class="productos-precio">$1200</p>
 			</div>
 		</div>
 	</section>

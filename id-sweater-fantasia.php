@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Sweater</h3>
 				<p class="productos-description">Sweater tejido 2 agujas, lana fantasía. Talle L.</p>
-				<p class="productos-precio">$1900</p>
+				<p class="productos-precio">$2600</p>
 			</div>
 		</div>
 	</section>

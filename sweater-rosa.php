@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Sweater</h3>
 				<p class="productos-description">Sweater tejido a dos agujas color rosa combinado. Tale M.</p>
-				<p class="productos-precio">$1500</p>
+				<p class="productos-precio">$3200</p>
 			</div>
 		</div>
 	</section>

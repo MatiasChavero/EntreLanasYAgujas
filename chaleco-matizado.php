@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Chaleco</h3>
 				<p class="productos-description">Chaleco con cuello alto tejido a dos agujas, color matizado talle XL.</p>
-				<p class="productos-precio">$1400</p>
+				<p class="productos-precio">$2900</p>
 			</div>
 		</div>
 	</section>

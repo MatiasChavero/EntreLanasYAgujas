@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Chaleco</h3>
 				<p class="productos-description">Chaleco calado sin costuras confeccionado en una pieza. Hilo cashmilon color beige. Talle M.</p>
-				<p class="productos-precio">$1800</p>
+				<p class="productos-precio">$3200</p>
 			</div>
 		</div>
 	</section>

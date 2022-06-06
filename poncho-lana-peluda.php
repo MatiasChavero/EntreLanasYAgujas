@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Poncho</h3>
 				<p class="productos-description">Poncho corto tejido al telar con lana peluda, color salmon y blanco.</p>
-				<p class="productos-precio">$1200</p>
+				<p class="productos-precio">$2400</p>
 			</div>
 		</div>
 	</section>

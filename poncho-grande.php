@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Poncho</h3>
 				<p class="productos-description">Poncho con cuello alto tejido al crochet, color mostaza.</p>
-				<p class="productos-precio">$2100</p>
+				<p class="productos-precio">$3900</p>
 			</div>
 		</div>
 	</section>

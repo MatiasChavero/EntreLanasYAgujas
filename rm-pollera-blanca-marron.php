@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Pollera</h3>
 				<p class="productos-description">Pollera color blanca y marrón, tejida al crochet con hilo.</p>
-				<p class="productos-precio">$500</p>
+				<p class="productos-precio">$900</p>
 			</div>
 		</div>
 	</section>

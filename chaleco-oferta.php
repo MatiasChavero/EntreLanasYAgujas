@@ -15,8 +15,8 @@
 			<div class="productos-general">
 				<h3>Chaleco</h3>
 				<p class="productos-description">Chaleco en totora fina color lila con blanco. Tejido con dos agujas, talle S.</p>
-				<p class="productos-precio">Antes $800</p>
-				<p class="productos-oferta">Ahora $600</p>
+				<p class="productos-precio">Antes $1500</p>
+				<p class="productos-oferta">Ahora $1200</p>
 			</div>
 		</div>
 	</section>

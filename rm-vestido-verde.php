@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Vestido</h3>
 				<p class="productos-description">Vestido largo con volados color verde y blanco, tejido al crochet.</p>
-				<p class="productos-precio">$950</p>
+				<p class="productos-precio">$1800</p>
 			</div>
 		</div>
 	</section>

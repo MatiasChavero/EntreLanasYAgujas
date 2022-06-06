@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Pareo - Vestido</h3>
 				<p class="productos-description">Pareo-vestido de tela combinado con crochet color rosa.</p>
-				<p class="productos-precio">$500</p>
+				<p class="productos-precio">$900</p>
 			</div>
 		</div>
 	</section>

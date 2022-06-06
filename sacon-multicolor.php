@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Sacon</h3>
 				<p class="productos-description">Sacon tejido al crochet en una sola pieza sin costura, multicolor talle M.</p>
-				<p class="productos-precio">$3500</p>
+				<p class="productos-precio">$7000</p>
 			</div>
 		</div>
 	</section>

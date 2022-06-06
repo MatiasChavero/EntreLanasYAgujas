@@ -15,8 +15,8 @@
 			<div class="productos-general">
 				<h3>Pancerito</h3>
 				<p class="productos-description">Pancerito cruzado con botones color amarillo. Tejido a dos agujas, hilo de algodón.</p>
-				<p class="productos-precio">Antes $500</p>
-				<p class="productos-oferta">Ahora $400</p>
+				<p class="productos-precio">Antes $1200</p>
+				<p class="productos-oferta">Ahora $900</p>
 			</div>
 		</div>
 	</section>

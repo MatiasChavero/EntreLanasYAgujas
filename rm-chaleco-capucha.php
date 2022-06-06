@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Chaleco con capucha</h3>
 				<p class="productos-description">Chaleco con capucha largo color verde, rayado con blanco y amarillo, tejido al crochet.</p>
-				<p class="productos-precio">$600</p>
+				<p class="productos-precio">$1200</p>
 			</div>
 		</div>
 	</section>

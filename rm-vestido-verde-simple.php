@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Vestido</h3>
 				<p class="productos-description">Vestido color verde, tejido al crochet con hilo.</p>
-				<p class="productos-precio">$700</p>
+				<p class="productos-precio">$1500</p>
 			</div>
 		</div>
 	</section>

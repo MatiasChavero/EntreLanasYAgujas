@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Pareo</h3>
 				<p class="productos-description">Pareo tejidao al crochet, hilo de algodón.</p>
-				<p class="productos-precio">$600</p>
+				<p class="productos-precio">$1500</p>
 			</div>
 		</div>
 	</section>

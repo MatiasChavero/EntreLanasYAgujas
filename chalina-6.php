@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Chalina</h3>
 				<p class="productos-description">Chalina tejida a dos agujas, hilo fantasía.</p>
-				<p class="productos-precio">$800</p>
+				<p class="productos-precio">$1500</p>
 			</div>
 		</div>
 	</section>

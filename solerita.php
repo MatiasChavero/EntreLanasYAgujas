@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Solerita</h3>
 				<p class="productos-description">Solerita combinada rosa y fantasía multicolor talle 2 a 3 años. Tejida al crochet de hilo.</p>
-				<p class="productos-precio">$800</p>
+				<p class="productos-precio">$1200</p>
 			</div>
 		</div>
 	</section>

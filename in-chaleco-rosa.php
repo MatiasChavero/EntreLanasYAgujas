@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Chaleco</h3>
 				<p class="productos-description">Chaleco cuello redondo, tejido 2 agujas, lana gruesa. Talle 12 años.</p>
-				<p class="productos-precio">$1200</p>
+				<p class="productos-precio">$2500</p>
 			</div>
 		</div>
 	</section>

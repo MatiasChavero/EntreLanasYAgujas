@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Chalina</h3>
 				<p class="productos-description">Chalina grande tejida a crochet, hilo fantasía.</p>
-				<p class="productos-precio">$1200</p>
+				<p class="productos-precio">$2400</p>
 			</div>
 		</div>
 	</section>

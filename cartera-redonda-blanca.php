@@ -15,8 +15,8 @@
 			<div class="productos-general">
 				<h3>Cartera</h3>
 				<p class="productos-description">Cartera redonda con botón color blanca y gris, tejida al crochet con totora.</p>
-				<p class="productos-precio">Antes $700</p>
-				<p class="productos-oferta">Ahora $500</p>
+				<p class="productos-precio">Antes $1500</p>
+				<p class="productos-oferta">Ahora $1200</p>
 			</div>
 		</div>
 	</section>

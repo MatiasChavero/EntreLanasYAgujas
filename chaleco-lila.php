@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Chaleco</h3>
 				<p class="productos-description">Chaleco corto calado color lila talle S. Tejido al crochet con hilo de algodón.</p>
-				<p class="productos-precio">$1300</p>
+				<p class="productos-precio">$2000</p>
 			</div>
 		</div>
 	</section>

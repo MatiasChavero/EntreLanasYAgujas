@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Solera</h3>
 				<p class="productos-description">Solera calada color amarilla talle S. Tejido al crochet con hilo de algodón.</p>
-				<p class="productos-precio">$1600</p>
+				<p class="productos-precio">$3200</p>
 			</div>
 		</div>
 	</section>

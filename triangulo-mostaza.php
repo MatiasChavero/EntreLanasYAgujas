@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Triangulo</h3>
 				<p class="productos-description">Triangulo tejido a dos agujas, lana gruesa con flecos.</p>
-				<p class="productos-precio">$1200</p>
+				<p class="productos-precio">$3000</p>
 			</div>
 		</div>
 	</section>

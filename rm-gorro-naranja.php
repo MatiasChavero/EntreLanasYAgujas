@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Gorro</h3>
 				<p class="productos-description">Gorro color naranja, tejido al crochet.</p>
-				<p class="productos-precio">$250</p>
+				<p class="productos-precio">$400</p>
 			</div>
 		</div>
 	</section>

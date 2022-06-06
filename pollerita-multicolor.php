@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Pollerita</h3>
 				<p class="productos-description">Pollerita multicolor adaptable talle 6 años. Tejida al crochet con hilo de algodón.</p>
-				<p class="productos-precio">$650</p>
+				<p class="productos-precio">$1300</p>
 			</div>
 		</div>
 	</section>

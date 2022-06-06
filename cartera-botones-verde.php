@@ -15,8 +15,8 @@
 			<div class="productos-general">
 				<h3>Cartera</h3>
 				<p class="productos-description">Cartera con botones combinada verde con gris, tejida al telar y crochet, con totora.</p>
-				<p class="productos-precio">Antes $600</p>
-				<p class="productos-oferta">Ahora $400</p>
+				<p class="productos-precio">Antes $1500</p>
+				<p class="productos-oferta">Ahora $1300</p>
 			</div>
 		</div>
 	</section>

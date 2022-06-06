@@ -16,7 +16,7 @@
 					<div class="destacados-text">
 						<h3>Sacon</h3>
 						<p class="p-description">Tejido al crochet, sin costura.</p>
-						<p class="p-precio">$3500</p>
+						<p class="p-precio">$7000</p>
 					</div>
 					<div class="destacados-button">
 						<a href="./sacon-multicolor.php">Ver más</a>
@@ -29,7 +29,7 @@
 					<div class="destacados-text">
 						<h3>Capa</h3>
 						<p class="p-description">Tejida 2 agujas con bolsillos.</p>
-						<p class="p-precio">$1800</p>
+						<p class="p-precio">$3000</p>
 					</div>
 					<div class="destacados-button">
 						<a href="./capa.php">Ver más</a>
@@ -42,7 +42,7 @@
 					<div class="destacados-text">
 						<h3>Gorro</h3>
 						<p class="p-description">Tejido 2 agujas, lana semi gruesa.</p>
-						<p class="p-precio">$800</p>
+						<p class="p-precio">$1500</p>
 					</div>
 					<div class="destacados-button">
 						<a href="./id-gorro-marron-rayado.php">Ver más</a>
@@ -55,7 +55,7 @@
 					<div class="destacados-text">
 						<h3>Chaleco</h3>
 						<p class="p-description">Tejido 2 agujas, lana gruesa.</p>
-						<p class="p-precio">$900</p>
+						<p class="p-precio">$1900</p>
 					</div>
 					<div class="destacados-button">
 						<a href="./in-chaleco-naranja.php">Ver más</a>
@@ -68,7 +68,7 @@
 					<div class="destacados-text">
 						<h3>Saco</h3>
 						<p class="p-description">Tejido al crochet sin costura.</p>
-						<p class="p-precio">$900</p>
+						<p class="p-precio">$1800</p>
 					</div>
 					<div class="destacados-button">
 						<a href="./in-saco-sin-costura.php">Ver más</a>
@@ -81,7 +81,7 @@
 					<div class="destacados-text">
 						<h3>Escarpines</h3>
 						<p class="p-description">Tejido al crochet, lana bebe.</p>
-						<p class="p-precio">$350</p>
+						<p class="p-precio">$500</p>
 					</div>
 					<div class="destacados-button">
 						<a href="./in-escarpines-bebe.php">Ver más</a>
@@ -94,7 +94,7 @@
 					<div class="destacados-text">
 						<h3>Vestido y Capelina</h3>
 						<p class="p-description">Tejido al crochet con hilo.</p>
-						<p class="p-precio">$1200</p>
+						<p class="p-precio">$2500</p>
 					</div>
 					<div class="destacados-button">
 						<a href="./rm-vestido-capelina.php">Ver más</a>
@@ -107,7 +107,7 @@
 					<div class="destacados-text">
 						<h3>Vestido</h3>
 						<p class="p-description">Tejido al crochet con hilo.</p>
-						<p class="p-precio">$950</p>
+						<p class="p-precio">$1800</p>
 					</div>
 					<div class="destacados-button">
 						<a href="./rm-vestido-verde.php">Ver más</a>
@@ -120,7 +120,7 @@
 					<div class="destacados-text">
 						<h3>Top</h3>
 						<p class="p-description">Tejido al crochet, hilo con lurex.</p>
-						<p class="p-precio">$1200</p>
+						<p class="p-precio">$2400</p>
 					</div>
 					<div class="destacados-button">
 						<a href="./top-lila.php">Ver más</a>
@@ -133,7 +133,7 @@
 					<div class="destacados-text">		
 						<h3>Chaleco</h3>
 						<p class="p-description">Tejido al crochet, hilo cashmilon.</p>
-						<p class="p-precio">$1800</p>
+						<p class="p-precio">$3200</p>
 					</div>
 					<div class="destacados-button">
 						<a href="./chaleco-beige.php">Ver más</a>

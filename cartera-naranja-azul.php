@@ -15,8 +15,8 @@
 			<div class="productos-general">
 				<h3>Cartera</h3>
 				<p class="productos-description">Cartera combinada naranja con azul, tejida al telar y al crochet, con totora.</p>
-				<p class="productos-precio">Antes $500</p>
-				<p class="productos-oferta">Ahora $300</p>
+				<p class="productos-precio">Antes $1200</p>
+				<p class="productos-oferta">Ahora $900</p>
 			</div>
 		</div>
 	</section>

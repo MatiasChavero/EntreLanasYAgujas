@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Polainas</h3>
 				<p class="productos-description">Polainas tejidas 2 agujas, lana gruesa.</p>
-				<p class="productos-precio">$700</p>
+				<p class="productos-precio">$1500</p>
 			</div>
 		</div>
 	</section>

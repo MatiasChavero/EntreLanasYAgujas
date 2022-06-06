@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Pañoleta</h3>
 				<p class="productos-description">Pañoleta bebe con corazones color rosa, tejida al crochet. Lana superbebe.</p>
-				<p class="productos-precio">$2500</p>
+				<p class="productos-precio">$3500</p>
 			</div>
 		</div>
 	</section>

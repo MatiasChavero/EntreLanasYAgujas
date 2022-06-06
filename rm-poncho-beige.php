@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Poncho</h3>
 				<p class="productos-description">Poncho color beige, tejido al crochet con lana.</p>
-				<p class="productos-precio">$500</p>
+				<p class="productos-precio">$900</p>
 			</div>
 		</div>
 	</section>

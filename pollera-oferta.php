@@ -15,8 +15,8 @@
 			<div class="productos-general">
 				<h3>Pollera</h3>
 				<p class="productos-description">Pollera tejida al crochet, diferentes tonos de verde. Talle de 8 a 10 años.</p>
-				<p class="productos-precio">Antes $700</p>
-				<p class="productos-oferta">Ahora $500</p>
+				<p class="productos-precio">Antes $1500</p>
+				<p class="productos-oferta">Ahora $1200</p>
 			</div>
 		</div>
 	</section>

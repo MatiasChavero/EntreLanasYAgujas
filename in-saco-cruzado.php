@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Saco</h3>
 				<p class="productos-description">Saco con botones, tejido a máquina. Lana gruesa. 2 unidades talle 8 y 10.</p>
-				<p class="productos-precio">$1000</p>
+				<p class="productos-precio">$1600</p>
 			</div>
 		</div>
 	</section>

@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Medias</h3>
 				<p class="productos-description">Medias tejidas 2 agujas, lana gruesa. Talle 38/39.</p>
-				<p class="productos-precio">$800</p>
+				<p class="productos-precio">$1900</p>
 			</div>
 		</div>
 	</section>

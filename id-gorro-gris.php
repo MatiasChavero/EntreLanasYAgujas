@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Gorro</h3>
 				<p class="productos-description">Gorro tejido a 2 agujas, lana semi gruesa.</p>
-				<p class="productos-precio">$800</p>
+				<p class="productos-precio">$1500</p>
 			</div>
 		</div>
 	</section>

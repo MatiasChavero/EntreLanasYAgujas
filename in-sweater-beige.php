@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Sweater</h3>
 				<p class="productos-description">Sweater cuello smoking, tejido a máquina. Lana gruesa. 2 unidades talle 6 y 10.</p>
-				<p class="productos-precio">$1200</p>
+				<p class="productos-precio">$1900</p>
 			</div>
 		</div>
 	</section>

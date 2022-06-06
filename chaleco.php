@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Chaleco</h3>
 				<p class="productos-description">Chaleco calado color rosa y blanco talle 6 a 8 años. Tejido al crochet con hilo de algodón.</p>
-				<p class="productos-precio">$900</p>
+				<p class="productos-precio">$1800</p>
 			</div>
 		</div>
 	</section>

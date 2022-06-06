@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Saquito</h3>
 				<p class="productos-description">Saquito con botones, tejido a 2 agujas. Lana bebe. Talle 0 a 3 meses.</p>
-				<p class="productos-precio">$600</p>
+				<p class="productos-precio">$1200</p>
 			</div>
 		</div>
 	</section>

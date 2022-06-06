@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Remera</h3>
 				<p class="productos-description">Remera mangas largas con botones tejida al crochet, hilo de algodón. Talle S.</p>
-				<p class="productos-precio">$1200</p>
+				<p class="productos-precio">$3500</p>
 			</div>
 		</div>
 	</section>

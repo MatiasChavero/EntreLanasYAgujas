@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Remeron</h3>
 				<p class="productos-description">Remeron calado color rosa talle M. Tejido al crochet con hilo de algodón.</p>
-				<p class="productos-precio">$1900</p>
+				<p class="productos-precio">$3000</p>
 			</div>
 		</div>
 	</section>

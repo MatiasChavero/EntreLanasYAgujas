@@ -15,8 +15,8 @@
 			<div class="productos-general">
 				<h3>Cartera</h3>
 				<p class="productos-description">Cartera verde con gris, tira de cadenas con piedras. Tejida al telar, con totora.</p>
-				<p class="productos-precio">Antes $500</p>
-				<p class="productos-oferta">Ahora $300</p>
+				<p class="productos-precio">Antes $1100</p>
+				<p class="productos-oferta">Ahora $900</p>
 			</div>
 		</div>
 	</section>

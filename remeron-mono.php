@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Remeron</h3>
 				<p class="productos-description">Remeron mangas cortas tejido a dos agujas, pelo de mono.</p>
-				<p class="productos-precio">$1800</p>
+				<p class="productos-precio">$2500</p>
 			</div>
 		</div>
 	</section>

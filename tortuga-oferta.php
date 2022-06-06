@@ -15,8 +15,8 @@
 			<div class="productos-general">
 				<h3>Amigurumi</h3>
 				<p class="productos-description">Tortuga con capelina rosa, hilo cashmilon de verano, tejida al crochet.</p>
-				<p class="productos-precio">Antes $600</p>
-				<p class="productos-oferta">Ahora $450</p>
+				<p class="productos-precio">Antes $900</p>
+				<p class="productos-oferta">Ahora $700</p>
 			</div>
 		</div>
 	</section>

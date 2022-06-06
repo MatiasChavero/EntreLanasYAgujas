@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Bufanda</h3>
 				<p class="productos-description">Bufanda tejida al crochet, lana gruesa.</p>
-				<p class="productos-precio">$500</p>
+				<p class="productos-precio">$1500</p>
 			</div>
 		</div>
 	</section>

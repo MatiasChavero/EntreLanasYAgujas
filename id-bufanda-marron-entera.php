@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Bufanda</h3>
 				<p class="productos-description">Bufanda tejida entera a 2 agujas, lana gruesa.</p>
-				<p class="productos-precio">$600</p>
+				<p class="productos-precio">$1500</p>
 			</div>
 		</div>
 	</section>

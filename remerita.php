@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Remerita</h3>
 				<p class="productos-description">Remerita calada color blanca, hilo cashmilon de verano. Talle 4 a 5 años</p>
-				<p class="productos-precio">$600</p>
+				<p class="productos-precio">$1900</p>
 			</div>
 		</div>
 	</section>

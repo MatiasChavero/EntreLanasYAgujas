@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Camperita</h3>
 				<p class="productos-description">Camperita color rosa y fantasía multicolor talle 2 a 4 años. Tejida al crochet con hilo.</p>
-				<p class="productos-precio">$900</p>
+				<p class="productos-precio">$1500</p>
 			</div>
 		</div>
 	</section>

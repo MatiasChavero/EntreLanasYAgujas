@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Chaleco</h3>
 				<p class="productos-description">Chaleco calado sin costuras confeccionado en una pieza. Hilo de algodón color verde musgo. Talle XL.</p>
-				<p class="productos-precio">$2500</p>
+				<p class="productos-precio">$3200</p>
 			</div>
 		</div>
 	</section>

@@ -15,7 +15,7 @@
 			<div class="productos-general">
 				<h3>Chaleco</h3>
 				<p class="productos-description">Chaleco tejido 2 agujas, lana gruesa. Talle 8 años.</p>
-				<p class="productos-precio">$900</p>
+				<p class="productos-precio">$1900</p>
 			</div>
 		</div>
 	</section>
